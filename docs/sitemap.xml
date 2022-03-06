@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://delicioustuna.github.io/categories/</loc>
+    <loc>https://delicioustuna.github.io/post/</loc>
+    <lastmod>2022-03-06T17:57:38+09:00</lastmod>
+  </url><url>
+    <loc>https://delicioustuna.github.io/post/sample1/</loc>
+    <lastmod>2022-03-06T17:57:38+09:00</lastmod>
   </url><url>
     <loc>https://delicioustuna.github.io/</loc>
+    <lastmod>2022-03-06T17:57:38+09:00</lastmod>
+  </url><url>
+    <loc>https://delicioustuna.github.io/categories/</loc>
   </url><url>
     <loc>https://delicioustuna.github.io/tags/</loc>
   </url>

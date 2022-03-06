@@ -1,0 +1,23 @@
+baseURL: 'https://delicioustuna.github.io/' # github pages のURLを指定
+title: 'おいしい鮪'
+publishDir: "docs" # buildの出力フォルダを'docs'に指定
+canonifyurls: true # baseurl=に指定したパスを問答無用でbaseurlにする
+theme: hugo-PaperMod # テーマの指定
+
+enableEmoji : true
+enableRobotsTXT: true
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+menu:
+    main:
+        - identifier: posts
+          name: posts
+          url: posts
+          weight: 5
