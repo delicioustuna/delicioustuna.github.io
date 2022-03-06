@@ -1,4 +1,5 @@
 baseURL = 'https://delicioustuna.github.io/'
-languageCode = 'ja-JP'
+languageCode = 'jp'
 title = 'My New Hugo Site'
 publishDir = "docs"
+theme = 'hugo-PaperMod'
