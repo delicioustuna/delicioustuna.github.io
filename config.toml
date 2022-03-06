@@ -1,0 +1,4 @@
+baseURL = 'https://delicioustuna.github.io/'
+languageCode = 'ja-JP'
+title = 'My New Hugo Site'
+publishDir = "docs"
